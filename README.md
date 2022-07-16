@@ -4,13 +4,13 @@
 
 ## Table Of Contents
 
-*[Description](#Description)
-*[Installed](#Installed)
-*[Usage](#Usage)
-*[contributing](#contributing)
-*[Tests](#Tests)
-*[Questions](#Questions)
-*[License](#License)
+* [Description](#Description)
+* [Installed](#Installed)
+* [Usage](#Usage)
+* [contributing](#contributing)
+* [Tests](#Tests)
+* [Questions](#Questions)
+* [License](#License)
 
 ## Description
 
@@ -22,17 +22,15 @@ node.js
 
 ## Usage
 
-*[picture](imageseadme.png)
+![picture](/assets/images/readme.png)
 
-*[picture](imageseadme(1).png)
+![picture](/assets/images/readme(1).png)
 
-*[picture](imageseadme(2).png)
+![picture](/assets/images/readme(2).png)
 
-*[picture](imageseadme(3).png)
+![picture](/assets/images/readme(3).png)
 
-
-*[video](videoseadmegenerator.mp4)
-
+![video](/assets/videos/ReadMeGenerator.mp4)
 
 ## Contributing
 

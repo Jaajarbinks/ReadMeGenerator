@@ -136,7 +136,7 @@ inquirer.prompt([
     }
 ]).then(answers => {
     const generatedMarkdown = generateMarkdown(answers)
-    fs.writeFile('README.md', generatedMarkdown, (err) => {
+    fs.writeFile('generated-README.md', generatedMarkdown, (err) => {
         if(err){
             console.log(err)
         }else{
